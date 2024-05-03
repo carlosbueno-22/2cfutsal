@@ -4,7 +4,7 @@
     }
     
 .cabeçalho {
-background-color: #FEC7B4;
+background-color: #ffff00;
 color: black;
 display: flex;
 justify-content: space-around;
@@ -36,7 +36,7 @@ padding: 24px 0;
     }
 
  .Nosso-objetivo {
-    background-color: #FC819E;
+    background-color: #ffe72f;
     display:flex;
     justify-content: center;
  }   
@@ -44,7 +44,7 @@ padding: 24px 0;
         width: 100px;
 
 .rodapé-imagem {
-background-color: #F74178;
+background-color: #f77728;
 
 
 }
